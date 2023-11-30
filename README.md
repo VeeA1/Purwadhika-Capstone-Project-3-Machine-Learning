@@ -1,6 +1,4 @@
-<p style="text-align: center;"> <font size=16>E-commerce Customer Churn</font></p>
-
-----
+# E-commerce Customer Churn
 
 # # Business Problem
 **Context:**<br>
